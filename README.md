@@ -1,4 +1,4 @@
-# 💰 Pricenix – Dynamic Pricing System
+# 💰 Pricenix – Dynamic Pricing System 
 
 Pricenix is an intelligent eCommerce pricing system that uses web crawling and RPA to monitor competitor prices, analyze trends, and automatically suggest optimized pricing strategies.
 
